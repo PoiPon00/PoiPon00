@@ -1,16 +1,19 @@
-### Hi there 👋
+### 👋 Hi there, I'm Gabriela! 
 
-<!--
-**PoiPon00/PoiPon00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Glad to see you here!** ☺️
 
-Here are some ideas to get you started:
+I'm a Biomedical Engineering graduate from AGH University of Krakow 🎓. Passionate about the intersection of healthcare and technology, I've set my sights on the exciting world of machine learning 🤖. Currently, I'm on the journey to become a Junior Data Scientist 📊, blending my biomedical background with the power of data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Let's connect and explore the fascinating realms of data science together! Open to collaborations and always eager to learn and grow 🌱.
+
+#### 🔗 Find me on: [LinkedIn/Gabriela-Piwar](https://www.linkedin.com/in/gabriela-piwar)
+
+---
+
+#### 📈 Feel free to check out My Projects:
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ [Project Name 1](Link to Project 1)
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ [Project Name 2](Link to Project 2)
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ [Project Name 3](Link to Project 3)
