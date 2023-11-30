@@ -12,8 +12,8 @@ I'm a Biomedical Engineering graduate from AGH University of Krakow 🎓. Passio
 
 #### 📈 Feel free to check out My Projects:
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ [Project Name 1](Link to Project 1)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ [Classification of Cats vs Dogs picture dataset 🐈vs🐕](https://github.com/PoiPon00/bootcamp-projects/tree/main/Projekt%20DL%20Cats%20vs%20Dogs)
  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ [Project Name 2](Link to Project 2)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ [Classification of Melanoma Skin Lesion 🔍](https://github.com/PoiPon00/my-projects/tree/main/skin%20leassions%20classification)
  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ [Project Name 3](Link to Project 3)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ [Analysis of Electrocardiogram](https://github.com/PoiPon00/my-projects/tree/main/mask%20electrocardiogram)
