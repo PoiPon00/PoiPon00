@@ -16,4 +16,4 @@ I'm a Biomedical Engineering graduate from AGH University of Krakow 🎓. Passio
  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ [Classification of Melanoma Skin Lesion 🔍](https://github.com/PoiPon00/my-projects/tree/main/skin%20leassions%20classification)
  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ [Analysis of Electrocardiogram](https://github.com/PoiPon00/my-projects/tree/main/mask%20electrocardiogram)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ [Electrocardiogram Analysis during Exercie](https://github.com/PoiPon00/my-projects/tree/main/mask%20electrocardiogram)
