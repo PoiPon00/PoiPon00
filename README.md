@@ -1,6 +1,7 @@
 ### 👋 Hi there, I'm Gabriela! 
 
 **Glad to see you here!** ☺️
+
 ![](https://komarev.com/ghpvc/?username=poipon00&color=ff69b4)
 
 I'm a Biomedical Engineering graduate from AGH University of Krakow 🎓. Passionate about the intersection of healthcare and technology, I've set my sights on the exciting world of machine learning 🤖. Currently, I'm on the journey to become a Junior Data Scientist 📊, blending my biomedical background with the power of data.
